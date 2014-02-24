@@ -108,7 +108,10 @@ if(is_dir($targetFolder)) {
 trace("Fetching drops...");
 
 foreach($dropIDs as $dropID) {
-	trace("Fetching {$dropID}...");
+
+	$numRemaining = $totalDrops - $numDrops;
+
+	trace("Fetching {$dropID} ({$numRemaining} remaining)...");
 
 	try {
 		fetchDrop($dropID);
