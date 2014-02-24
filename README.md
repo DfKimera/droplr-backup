@@ -13,9 +13,9 @@ This tool will let you accomplish that.
 - Access droplr.com using Google Chrome (or maybe Firefox, haven't tested with it) and login to your account
 - While looking at your account dashboard, scroll ALL THE WAY to the bottom of the page, until all your drops are visible
 - Open your developer console by pressing `Ctrl+Shift+J` or accessing `Menu > Tools > Javascript Console`
-- Paste the entire raw contents of "scrapper.js" in the input field, and press ENTER
+- Paste the entire raw contents of [scrapper.js](https://raw.github.com/DfKimera/droplr-backup/master/scrapper.js) in the input field, and press ENTER
 - Copy the last line printed by the script
-- Download "downloader.php" and place it somewhere you can run PHP command-line
+- Download [downloader.php](https://raw.github.com/DfKimera/droplr-backup/master/downloader.php) and place it somewhere you can run PHP command-line
 - Edit it, and replace the second line (the one below `<?php`) with the contents you copied
 - Save it
 - Run the PHP script command-line. If you have PHP installed correctly, simply navigate to the folder where "downloader.php" is with your terminal/console and enter the command `php -f downloader.php` (no quotes)
