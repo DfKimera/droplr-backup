@@ -1,5 +1,7 @@
 Droplr Backup Utility
 =============
+### or "How to backup your Droplr account before they discontinue the free tier"
+![Droplr Backup Utility](screenshot.jpg "Droplr Backup Utility")
 
 Surprised by Droplr's discontinuation of the free account? Wish to backup all images in your account?
 This tool will let you accomplish that.
