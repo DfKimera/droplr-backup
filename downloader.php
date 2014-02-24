@@ -1,5 +1,5 @@
 <?php
-$dropIDs = array(); // <<< REPLACE *ALL* OF THIS LINE WITH THE OUTPUT FROM scrapper.js >>>
+$dropIDs = array("2Dxv", "RHQI", "WKTl", "ptV9"); // <<< REPLACE *ALL* OF THIS LINE WITH THE OUTPUT FROM scrapper.js >>>
 // ^^^^^ [ [ REPLACE THE LINE ABOVE WITH THE OUTPUT FROM scrapper.js! ] ] ^^^^^
 
 $baseDropURL = "http://d.pr/i/";
